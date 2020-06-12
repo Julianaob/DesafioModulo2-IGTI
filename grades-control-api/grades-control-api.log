@@ -1,0 +1,268 @@
+2020-06-10T00:06:21.466Z [grades-control-api] info: api started
+2020-06-10T00:06:26.565Z [grades-control-api] info: api started
+2020-06-10T00:23:08.437Z [grades-control-api] info: api started
+2020-06-10T00:24:16.801Z [grades-control-api] info: api started
+2020-06-10T00:27:22.620Z [grades-control-api] info: api started
+2020-06-10T00:30:44.893Z [grades-control-api] info: api started
+2020-06-10T00:33:40.503Z [grades-control-api] info: api started
+2020-06-10T00:34:28.383Z [grades-control-api] info: api started
+2020-06-10T00:34:58.850Z [grades-control-api] info: api started
+2020-06-10T00:35:07.233Z [grades-control-api] info: api started
+2020-06-10T00:35:21.175Z [grades-control-api] info: api started
+2020-06-10T00:35:40.964Z [grades-control-api] info: api started
+2020-06-10T00:40:01.784Z [grades-control-api] info: api started
+2020-06-10T00:40:39.985Z [grades-control-api] info: GET / grades
+2020-06-10T00:41:56.777Z [grades-control-api] info: api started
+2020-06-10T00:43:38.921Z [grades-control-api] info: GET / grades
+2020-06-10T00:44:48.174Z [grades-control-api] info: api started
+2020-06-10T00:46:08.737Z [grades-control-api] info: api started
+2020-06-10T00:47:09.031Z [grades-control-api] info: api started
+2020-06-10T00:49:04.364Z [grades-control-api] info: api started
+2020-06-10T00:49:12.978Z [grades-control-api] info: api started
+2020-06-10T00:50:23.249Z [grades-control-api] info: api started
+2020-06-10T00:51:06.758Z [grades-control-api] info: api started
+2020-06-10T00:51:26.742Z [grades-control-api] info: api started
+2020-06-10T00:51:48.543Z [grades-control-api] info: api started
+2020-06-10T00:52:48.020Z [grades-control-api] info: api started
+2020-06-10T00:53:09.775Z [grades-control-api] info: api started
+2020-06-10T00:55:53.170Z [grades-control-api] info: api started
+2020-06-10T00:56:35.221Z [grades-control-api] info: api started
+2020-06-10T00:56:52.814Z [grades-control-api] info: GET / grades
+2020-06-10T01:00:03.063Z [grades-control-api] info: api started
+2020-06-10T01:00:15.631Z [grades-control-api] info: api started
+2020-06-10T01:05:08.165Z [grades-control-api] info: api started
+2020-06-10T01:06:37.018Z [grades-control-api] info: api started
+2020-06-10T01:07:05.316Z [grades-control-api] info: api started
+2020-06-10T01:08:43.638Z [grades-control-api] info: api started
+2020-06-10T01:09:07.438Z [grades-control-api] info: GET / grades
+2020-06-10T01:15:49.665Z [grades-control-api] info: api started
+2020-06-10T01:15:55.830Z [grades-control-api] info: GET / grades
+2020-06-10T01:16:50.299Z [grades-control-api] info: Delete / grades/id: - 50
+2020-06-10T01:16:54.246Z [grades-control-api] info: GET / grades
+2020-06-10T01:17:30.646Z [grades-control-api] info: GET / grades
+2020-06-10T01:20:35.786Z [grades-control-api] info: api started
+2020-06-10T01:21:10.084Z [grades-control-api] info: api started
+2020-06-10T01:21:19.114Z [grades-control-api] info: api started
+2020-06-10T01:21:28.038Z [grades-control-api] info: api started
+2020-06-10T01:21:36.330Z [grades-control-api] info: api started
+2020-06-10T01:21:54.969Z [grades-control-api] info: api started
+2020-06-10T01:22:05.029Z [grades-control-api] info: api started
+2020-06-10T01:22:24.346Z [grades-control-api] info: api started
+2020-06-10T01:24:23.661Z [grades-control-api] info: api started
+2020-06-10T01:24:39.312Z [grades-control-api] info: GET / grades
+2020-06-10T01:30:32.579Z [grades-control-api] info: api started
+2020-06-10T01:30:55.807Z [grades-control-api] info: api started
+2020-06-10T01:30:58.528Z [grades-control-api] error: PUT / grades - Cannot set property 'students' of undefined
+2020-06-10T01:31:07.983Z [grades-control-api] info: api started
+2020-06-10T01:31:11.339Z [grades-control-api] error: PUT / grades - Cannot set property 'student' of undefined
+2020-06-10T01:31:28.331Z [grades-control-api] info: api started
+2020-06-10T01:31:45.933Z [grades-control-api] info: api started
+2020-06-10T01:31:48.527Z [grades-control-api] error: PUT / grades - Cannot set property 'student' of undefined
+2020-06-10T01:32:28.286Z [grades-control-api] info: api started
+2020-06-10T01:32:33.253Z [grades-control-api] error: PUT / grades - Cannot set property 'student' of undefined
+2020-06-10T01:34:20.228Z [grades-control-api] info: api started
+2020-06-10T01:34:45.442Z [grades-control-api] info: PUT / grades - {"id":50,"student":"Novos Testes","subject":"01 - React Native","type":"Trabalho Prático 2","value":19.5}
+2020-06-10T01:34:57.721Z [grades-control-api] info: GET / grades
+2020-06-11T16:40:11.661Z [grades-control-api] info: api started
+2020-06-11T16:42:42.729Z [grades-control-api] info: GET / grades/id:
+2020-06-11T16:43:39.898Z [grades-control-api] info: api started
+2020-06-11T16:43:46.376Z [grades-control-api] info: api started
+2020-06-11T16:43:50.725Z [grades-control-api] info: GET / grades/id:
+2020-06-11T16:43:53.121Z [grades-control-api] info: GET / grades/id:
+2020-06-11T16:44:28.355Z [grades-control-api] info: api started
+2020-06-11T16:45:45.000Z [grades-control-api] info: api started
+2020-06-11T16:46:58.540Z [grades-control-api] info: api started
+2020-06-11T16:47:00.874Z [grades-control-api] error: GET / grades - json.filter is not a function
+2020-06-11T16:49:52.591Z [grades-control-api] info: api started
+2020-06-11T16:50:02.642Z [grades-control-api] info: api started
+2020-06-11T16:50:15.799Z [grades-control-api] error: GET / grades - Cannot read property 'map' of undefined
+2020-06-11T16:50:23.976Z [grades-control-api] info: api started
+2020-06-11T16:50:26.169Z [grades-control-api] error: GET / grades - libs.calculations is not a function
+2020-06-11T16:50:54.179Z [grades-control-api] info: api started
+2020-06-11T16:50:58.139Z [grades-control-api] error: GET / grades - libs.calculations is not a function
+2020-06-11T16:51:06.823Z [grades-control-api] info: api started
+2020-06-11T16:51:09.867Z [grades-control-api] error: GET / grades - libs.summation is not a function
+2020-06-11T16:53:10.127Z [grades-control-api] info: api started
+2020-06-11T16:53:24.671Z [grades-control-api] info: GET / grades
+2020-06-11T16:53:41.898Z [grades-control-api] info: GET / grades
+2020-06-11T16:53:46.828Z [grades-control-api] info: GET / grades
+2020-06-11T16:54:16.904Z [grades-control-api] info: api started
+2020-06-11T16:54:20.746Z [grades-control-api] info: GET / grades
+2020-06-11T16:54:32.076Z [grades-control-api] info: api started
+2020-06-11T16:54:37.478Z [grades-control-api] error: GET / grades - Cannot read property 'value' of undefined
+2020-06-11T16:55:07.024Z [grades-control-api] info: api started
+2020-06-11T16:55:11.670Z [grades-control-api] info: GET / grades
+2020-06-11T16:55:50.584Z [grades-control-api] info: api started
+2020-06-11T16:55:56.788Z [grades-control-api] info: GET / grades
+2020-06-11T16:56:28.844Z [grades-control-api] info: api started
+2020-06-11T16:56:33.388Z [grades-control-api] info: GET / grades
+2020-06-11T16:56:48.084Z [grades-control-api] info: api started
+2020-06-11T16:56:51.587Z [grades-control-api] info: GET / grades
+2020-06-11T16:57:14.927Z [grades-control-api] info: api started
+2020-06-11T16:57:17.277Z [grades-control-api] info: GET / grades
+2020-06-11T16:57:56.326Z [grades-control-api] info: api started
+2020-06-11T16:58:17.603Z [grades-control-api] info: api started
+2020-06-11T16:58:21.989Z [grades-control-api] error: GET / grades - Cannot read property 'student' of undefined
+2020-06-11T16:58:34.687Z [grades-control-api] info: api started
+2020-06-11T16:58:37.512Z [grades-control-api] info: GET / grades
+2020-06-11T17:01:22.413Z [grades-control-api] info: api started
+2020-06-11T17:01:26.504Z [grades-control-api] info: GET / grades
+2020-06-11T17:02:26.028Z [grades-control-api] info: api started
+2020-06-11T17:02:34.770Z [grades-control-api] info: GET / grades
+2020-06-11T17:03:06.980Z [grades-control-api] info: api started
+2020-06-11T17:07:45.749Z [grades-control-api] info: api started
+2020-06-11T17:07:47.192Z [grades-control-api] info: GET / grades
+2020-06-11T17:08:40.258Z [grades-control-api] info: api started
+2020-06-11T17:08:43.609Z [grades-control-api] info: GET / grades
+2020-06-11T17:08:54.279Z [grades-control-api] info: api started
+2020-06-11T17:08:57.586Z [grades-control-api] info: GET / grades
+2020-06-12T00:48:26.251Z [grades-control-api] info: api started
+2020-06-12T00:48:43.326Z [grades-control-api] info: GET / grades
+2020-06-12T00:52:53.829Z [grades-control-api] info: api started
+2020-06-12T00:55:54.434Z [grades-control-api] info: api started
+2020-06-12T00:56:10.645Z [grades-control-api] info: api started
+2020-06-12T00:56:14.059Z [grades-control-api] info: api started
+2020-06-12T00:56:23.076Z [grades-control-api] info: GET / grades
+2020-06-12T00:56:42.276Z [grades-control-api] info: api started
+2020-06-12T00:56:44.524Z [grades-control-api] error: GET / grades - Cannot access 'teste' before initialization
+2020-06-12T00:56:53.586Z [grades-control-api] info: api started
+2020-06-12T00:56:55.458Z [grades-control-api] info: GET / grades
+2020-06-12T00:57:17.516Z [grades-control-api] info: api started
+2020-06-12T00:58:37.305Z [grades-control-api] info: api started
+2020-06-12T00:58:41.206Z [grades-control-api] info: GET / grades
+2020-06-12T00:59:14.985Z [grades-control-api] info: api started
+2020-06-12T00:59:19.818Z [grades-control-api] info: GET / grades
+2020-06-12T01:00:59.261Z [grades-control-api] info: api started
+2020-06-12T01:01:04.373Z [grades-control-api] info: GET / grades
+2020-06-12T01:02:35.549Z [grades-control-api] info: GET / grades
+2020-06-12T01:03:08.431Z [grades-control-api] info: GET / grades
+2020-06-12T01:03:54.675Z [grades-control-api] info: api started
+2020-06-12T01:03:55.252Z [grades-control-api] info: GET / grades
+2020-06-12T01:04:29.159Z [grades-control-api] info: api started
+2020-06-12T01:04:41.714Z [grades-control-api] info: api started
+2020-06-12T01:04:45.510Z [grades-control-api] info: GET / grades
+2020-06-12T01:05:23.093Z [grades-control-api] info: api started
+2020-06-12T01:05:25.650Z [grades-control-api] info: GET / grades
+2020-06-12T01:07:09.634Z [grades-control-api] info: api started
+2020-06-12T01:07:13.096Z [grades-control-api] info: GET / grades
+2020-06-12T01:07:39.966Z [grades-control-api] info: GET / grades
+2020-06-12T01:08:22.596Z [grades-control-api] info: api started
+2020-06-12T01:08:55.671Z [grades-control-api] info: api started
+2020-06-12T01:08:59.875Z [grades-control-api] info: GET / grades
+2020-06-12T01:09:12.617Z [grades-control-api] info: GET / grades
+2020-06-12T01:09:31.961Z [grades-control-api] info: GET / grades
+2020-06-12T01:09:44.725Z [grades-control-api] info: GET / grades
+2020-06-12T01:13:10.078Z [grades-control-api] info: api started
+2020-06-12T01:13:31.437Z [grades-control-api] info: api started
+2020-06-12T01:13:43.880Z [grades-control-api] info: api started
+2020-06-12T01:14:00.848Z [grades-control-api] info: GET / grades
+2020-06-12T01:14:59.200Z [grades-control-api] info: GET / grades
+2020-06-12T01:15:30.411Z [grades-control-api] info: GET / grades
+2020-06-12T01:15:43.023Z [grades-control-api] info: GET / grades
+2020-06-12T01:15:55.522Z [grades-control-api] info: api started
+2020-06-12T01:15:58.608Z [grades-control-api] info: GET / grades
+2020-06-12T01:16:40.080Z [grades-control-api] info: api started
+2020-06-12T01:16:42.056Z [grades-control-api] info: GET / grades
+2020-06-12T01:17:09.748Z [grades-control-api] info: api started
+2020-06-12T01:17:12.325Z [grades-control-api] info: GET / grades
+2020-06-12T01:19:56.506Z [grades-control-api] info: GET / grades
+2020-06-12T01:20:15.990Z [grades-control-api] info: api started
+2020-06-12T01:20:17.724Z [grades-control-api] info: GET / grades
+2020-06-12T01:23:22.019Z [grades-control-api] info: api started
+2020-06-12T01:23:46.070Z [grades-control-api] info: api started
+2020-06-12T01:25:17.756Z [grades-control-api] info: api started
+2020-06-12T01:26:27.514Z [grades-control-api] info: api started
+2020-06-12T01:27:08.064Z [grades-control-api] info: api started
+2020-06-12T01:28:52.263Z [grades-control-api] info: GET / grades
+2020-06-12T01:29:21.264Z [grades-control-api] info: GET / grades
+2020-06-12T01:29:37.257Z [grades-control-api] info: api started
+2020-06-12T01:29:46.412Z [grades-control-api] info: api started
+2020-06-12T01:29:47.627Z [grades-control-api] info: GET / grades
+2020-06-12T01:30:01.858Z [grades-control-api] info: api started
+2020-06-12T01:30:05.552Z [grades-control-api] error: GET / grades - Cannot read property 'map' of undefined
+2020-06-12T01:30:17.169Z [grades-control-api] info: api started
+2020-06-12T01:30:19.745Z [grades-control-api] error: GET / grades - libs.Average is not a function
+2020-06-12T01:30:37.205Z [grades-control-api] info: api started
+2020-06-12T01:30:38.836Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:31:39.259Z [grades-control-api] info: api started
+2020-06-12T01:31:44.696Z [grades-control-api] info: api started
+2020-06-12T01:31:46.839Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:31:56.733Z [grades-control-api] info: api started
+2020-06-12T01:31:58.764Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:32:47.284Z [grades-control-api] info: api started
+2020-06-12T01:33:07.312Z [grades-control-api] info: api started
+2020-06-12T01:33:09.361Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:35:28.335Z [grades-control-api] info: api started
+2020-06-12T01:35:38.569Z [grades-control-api] info: api started
+2020-06-12T01:35:44.656Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:36:28.006Z [grades-control-api] info: api started
+2020-06-12T01:36:42.610Z [grades-control-api] info: api started
+2020-06-12T01:36:44.159Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:37:12.481Z [grades-control-api] info: api started
+2020-06-12T01:37:47.384Z [grades-control-api] info: api started
+2020-06-12T01:37:49.250Z [grades-control-api] error: GET / grades - value.reduce is not a function
+2020-06-12T01:38:33.098Z [grades-control-api] info: api started
+2020-06-12T01:38:52.282Z [grades-control-api] info: api started
+2020-06-12T01:39:00.084Z [grades-control-api] info: GET / grades
+2020-06-12T01:41:48.552Z [grades-control-api] info: api started
+2020-06-12T01:42:05.134Z [grades-control-api] info: api started
+2020-06-12T01:44:16.556Z [grades-control-api] info: api started
+2020-06-12T01:44:24.458Z [grades-control-api] info: api started
+2020-06-12T01:46:57.480Z [grades-control-api] info: api started
+2020-06-12T01:48:30.072Z [grades-control-api] info: api started
+2020-06-12T01:49:32.200Z [grades-control-api] info: api started
+2020-06-12T01:49:48.961Z [grades-control-api] info: api started
+2020-06-12T01:51:51.394Z [grades-control-api] info: api started
+2020-06-12T01:52:09.483Z [grades-control-api] info: api started
+2020-06-12T01:52:15.895Z [grades-control-api] info: GET / grades
+2020-06-12T01:54:29.622Z [grades-control-api] info: api started
+2020-06-12T01:54:32.459Z [grades-control-api] info: GET / grades
+2020-06-12T01:55:26.189Z [grades-control-api] info: api started
+2020-06-12T01:55:32.251Z [grades-control-api] error: GET / grades - Cannot read property 'localeCompare' of undefined
+2020-06-12T01:56:00.183Z [grades-control-api] info: api started
+2020-06-12T01:56:03.776Z [grades-control-api] info: GET / grades
+2020-06-12T01:56:14.091Z [grades-control-api] info: api started
+2020-06-12T01:56:15.457Z [grades-control-api] info: GET / grades
+2020-06-12T01:56:21.404Z [grades-control-api] info: api started
+2020-06-12T01:56:23.141Z [grades-control-api] info: GET / grades
+2020-06-12T01:57:08.633Z [grades-control-api] info: api started
+2020-06-12T01:57:24.652Z [grades-control-api] info: api started
+2020-06-12T01:57:28.599Z [grades-control-api] info: GET / grades
+2020-06-12T01:58:33.391Z [grades-control-api] info: api started
+2020-06-12T01:58:36.944Z [grades-control-api] info: GET / grades
+2020-06-12T01:58:59.517Z [grades-control-api] info: api started
+2020-06-12T01:59:02.283Z [grades-control-api] info: api started
+2020-06-12T01:59:16.949Z [grades-control-api] info: api started
+2020-06-12T01:59:19.005Z [grades-control-api] info: GET / grades
+2020-06-12T01:59:30.612Z [grades-control-api] info: api started
+2020-06-12T01:59:32.901Z [grades-control-api] info: GET / grades
+2020-06-12T02:06:39.413Z [grades-control-api] info: GET / grades
+2020-06-12T02:08:48.789Z [grades-control-api] info: GET / grades
+2020-06-12T02:09:03.046Z [grades-control-api] info: GET / grades
+2020-06-12T02:10:12.521Z [grades-control-api] info: api started
+2020-06-12T02:10:58.690Z [grades-control-api] info: api started
+2020-06-12T02:11:12.076Z [grades-control-api] info: GET / grades
+2020-06-12T02:11:59.788Z [grades-control-api] info: api started
+2020-06-12T02:12:08.761Z [grades-control-api] info: GET / grades
+2020-06-12T02:15:09.016Z [grades-control-api] info: api started
+2020-06-12T02:15:51.927Z [grades-control-api] info: GET / grades
+2020-06-12T02:17:02.899Z [grades-control-api] info: api started
+2020-06-12T02:17:21.100Z [grades-control-api] info: GET / grades
+2020-06-12T02:21:57.761Z [grades-control-api] info: api started
+2020-06-12T02:22:19.074Z [grades-control-api] info: GET / grades
+2020-06-12T02:24:25.348Z [grades-control-api] info: PUT / grades - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-06-12T02:25:17.875Z [grades-control-api] info: api started
+2020-06-12T02:25:31.283Z [grades-control-api] info: GET / grades
+2020-06-12T02:26:15.252Z [grades-control-api] info: Delete / grades/id: - 32
+2020-06-12T02:26:42.699Z [grades-control-api] info: GET / grades
+2020-06-12T02:27:32.003Z [grades-control-api] info: api started
+2020-06-12T02:49:45.578Z [grades-control-api] info: api started
+2020-06-12T02:50:01.439Z [grades-control-api] info: GET / grades
+2020-06-12T02:50:54.217Z [grades-control-api] info: api started
+2020-06-12T02:51:17.746Z [grades-control-api] info: GET / grades
+2020-06-12T02:51:54.664Z [grades-control-api] info: api started
+2020-06-12T02:51:57.942Z [grades-control-api] info: GET / grades
+2020-06-12T02:52:35.186Z [grades-control-api] info: api started
+2020-06-12T02:52:36.370Z [grades-control-api] info: api started
+2020-06-12T02:52:40.190Z [grades-control-api] info: GET / grades
+2020-06-12T02:57:53.855Z [grades-control-api] info: api started
